@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello HomeController!{% endblock %}
+
+{% block body %}
+    <div class="homework__card-container">
+        {% for devoir in devoirs %}
+            <div class="homework__card">
+                <h2>{{ devoir.matiere.nomDeMatiere }}</h2>
+                <p>Date de Rendu : {{ devoir.dateDeRendu|date("m/d/Y") }}</p>
+                <p>Date de Création : {{ devoir.dateDeCreation|date("m/d/Y") }}</p>
+                <p>{{ devoir.contenu }}</p>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
