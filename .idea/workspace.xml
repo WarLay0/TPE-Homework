@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a41671d-214c-46af-a36e-ffe8b65ce1e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/styles/_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/_font.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/_font.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/_font.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +154,9 @@
       <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
     </include_path>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -197,7 +197,10 @@
       <updated>1700060899992</updated>
       <workItem from="1700060903540" duration="8537000" />
       <workItem from="1700073767899" duration="599000" />
-      <workItem from="1700124247722" duration="6563000" />
+      <workItem from="1700124247722" duration="7544000" />
+      <workItem from="1700225149709" duration="1262000" />
+      <workItem from="1701081359536" duration="2251000" />
+      <workItem from="1701112806271" duration="466000" />
     </task>
     <servers />
   </component>
